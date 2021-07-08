@@ -68,4 +68,5 @@ error: failed to push some refs to 'github.com:EndikaPickering/alpha-blog.git'
 11. git add -A                                                            # Begin tracking folder in wd
 12. git status                                                            # Show files being tracked
 13. git commit -m "Add about page"                                        # Commit to git
-14. git push origin master                                                # Push to github
+18. git branch -M main                                                    # Merge branches to main?
+14. git push -u origin master                                                # Push to github
