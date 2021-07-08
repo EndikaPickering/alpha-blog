@@ -69,4 +69,4 @@ error: failed to push some refs to 'github.com:EndikaPickering/alpha-blog.git'
 12. git status                                                            # Show files being tracked
 13. git commit -m "Add about page"                                        # Commit to git
 18. git branch -M main                                                    # Merge branches to main?
-14. git push -u origin master                                                # Push to github
+14. git push                                                              # Push to github
